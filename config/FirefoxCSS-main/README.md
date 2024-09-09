@@ -1,0 +1,26 @@
+![Screenshot_20240829_005951](https://github.com/user-attachments/assets/3518549d-1137-4be0-9a5f-87a380dbaf53)
+
+# How to install:
+1. Download the files
+3. Go to `about:profiles`
+2. Find your profile  --  ( *„This is the profile in use and it cannot be deleted.”* )
+3. Open the profile's root directory
+5. Move the files there
+6. Restart Firefox
+
+[](https://github.com/Bali10050/FirefoxCSS/assets/110120798/55e7fb6e-aa93-4440-82b5-dbd997cd9f01)
+
+> [!NOTE]
+> This CSS doesn't change the color scheme of your firefox, so it may look different on your platform
+
+> [!NOTE]
+> If you don't put the `user.js` file in your profile folder, please set the following settings to `true` in your `about:config` tab if you want this css to work properly:
+> 
+> `toolkit.legacyUserProfileCustomizations.stylesheets`
+> 
+> `svg.context-properties.content.enabled`
+> 
+> `layout.css.has-selector.enabled`
+
+> [!TIP]
+> If you have an issue, please report it here in the issues tab instead of somewhere else like reddit, it makes finding and fixing the issue faster
