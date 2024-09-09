@@ -1,0 +1,13 @@
+schema_version = "1.0.0"
+id = "neutral_grey"
+version = "1.1.0"
+name = "Neutral Grey"
+tagline = "A neutral grey theme for Blender"
+type = "theme"
+website = "https://blenderartists.org/t/theme-a-neutral-grey-blender-theme-and-a-problem-with-the-passepartout/"
+tags = ["Light", "Accessibility"]
+blender_version_min = "4.2.0"
+maintainer = "Matteo Scopel <matteo@scopel.email>"
+license = [
+  "SPDX:GPL-2.0-or-later"
+]

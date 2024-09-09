@@ -1,0 +1,16 @@
+schema_version = "1.0.1"
+
+id = "nocturno_theme"
+version = "1.0.1"
+name = "Nocturno"
+tagline = "Dark Theme for Blender"
+maintainer = "Stephan Ogris-Levin"
+type = "theme"
+
+tags = ["Dark"]
+
+blender_version_min = "4.2.0"
+
+license = [
+  "SPDX:GPL-2.0-or-later",
+]

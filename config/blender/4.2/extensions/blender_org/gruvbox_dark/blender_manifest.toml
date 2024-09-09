@@ -1,0 +1,14 @@
+schema_version = "1.0.0"
+
+id = "gruvbox_dark"
+version = "1.2.0"
+name = "Gruvbox Dark"
+tagline = "Gruvbox dark theme"
+maintainer = "Sylwia Ptasinska"
+type = "theme"
+website = "https://github.com/SylEleuth/blender-gruvbox"
+tags = ["Dark"]
+blender_version_min = "4.2.0"
+license = [
+  "SPDX:GPL-2.0-or-later",
+]

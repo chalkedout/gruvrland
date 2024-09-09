@@ -1,0 +1,14 @@
+schema_version = "1.0.0"
+
+id = "gruvbox_light"
+version = "1.2.1"
+name = "Gruvbox Light"
+tagline = "Gruvbox light theme"
+maintainer = "Sylwia Ptasinska"
+type = "theme"
+website = "https://github.com/SylEleuth/blender-gruvbox"
+tags = ["Light"]
+blender_version_min = "4.2.0"
+license = [
+  "SPDX:GPL-2.0-or-later",
+]
